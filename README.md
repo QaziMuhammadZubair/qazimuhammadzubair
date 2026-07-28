@@ -41,6 +41,7 @@ I'm a passionate Software Engineer with 3+ years of professional experience buil
 * Git & GitHub
 * Azure DevOps
 * Visual Studio
+* Antigravity IDE
 * Visual Studio Code
 * Android Studio
 * Postman
