@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Angular Developer | .NET Developer
 
-I'm a passionate Software Engineer with 3+ years of professional experience building modern web and mobile applications. I enjoy creating scalable, user-friendly solutions using Angular, .NET Web API, and Ionic Framework.
+I'm a passionate Software Engineer with 4 years of professional experience building modern web and mobile applications. I enjoy creating scalable, user-friendly solutions using Angular, .NET Web API, and Ionic Framework.
 
 * 🌱 Currently learning: Astro, React, and modern eCommerce solutions.
 * 💼 Working as a Full Stack Developer.
